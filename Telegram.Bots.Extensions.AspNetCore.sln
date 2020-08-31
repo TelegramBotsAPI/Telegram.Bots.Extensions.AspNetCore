@@ -1,9 +1,20 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3878E98D-783D-4FC2-AC71-36668D8E475D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram.Bots.Extensions.AspNetCore", "Telegram.Bots.Extensions.AspNetCore\Telegram.Bots.Extensions.AspNetCore.csproj", "{6777B2C8-AB17-4FA3-9835-3C35199E6360}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6777B2C8-AB17-4FA3-9835-3C35199E6360} = {3878E98D-783D-4FC2-AC71-36668D8E475D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6777B2C8-AB17-4FA3-9835-3C35199E6360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6777B2C8-AB17-4FA3-9835-3C35199E6360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6777B2C8-AB17-4FA3-9835-3C35199E6360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6777B2C8-AB17-4FA3-9835-3C35199E6360}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
