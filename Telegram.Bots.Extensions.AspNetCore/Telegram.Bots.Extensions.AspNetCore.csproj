@@ -7,7 +7,7 @@
     <Authors>Aman Agnihotri</Authors>
     <Product>Telegram.Bots.Extensions.AspNetCore</Product>
     <Title>Telegram.Bots.Extensions.AspNetCore</Title>
-    <Description>A .NET Core wrapper for the Telegram Bot API</Description>
+    <Description>Integrate Telegram.Bots Serializer with ASP.NET Core</Description>
     <Copyright>Copyright © 2020 Aman Agnihotri</Copyright>
     <PackageVersion>1.0.3</PackageVersion>
     <PackageProjectUrl>https://github.com/TelegramBotsAPI/Telegram.Bots.Extensions.AspNetCore</PackageProjectUrl>
