@@ -18,7 +18,7 @@ services.AddControllers()
 
 ### License
 
-Telegram.Bots.Extensions.AspNetCore is an extension for Telegram.Bots.
+Telegram.Bots.Extensions.AspNetCore is an extension for Telegram.Bots.  
 Copyright © 2020  Aman Agnihotri (amanagnihotri@pm.me)
 
 This program is free software: you can redistribute it and/or modify
