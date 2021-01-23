@@ -1,14 +1,16 @@
 # Telegram.Bots.Extensions.AspNetCore
-> Integrate Telegram.Bots Serializer with ASP.NET Core
+
+> Integrate Telegram.Bots Serializer with ASP.NET Core 5.0+
 
 ### Getting Started
 
 #### Configuring the Serializer with ASP.NET Core
-```c#
+
+```cs
 using Microsoft.Extensions.DependencyInjection;
 using Telegram.Bots.Extensions.AspNetCore;
 
-...
+// ...
 
 IServiceCollection services = ...
 
@@ -19,7 +21,7 @@ services.AddControllers()
 ### License
 
 Telegram.Bots.Extensions.AspNetCore is an extension for Telegram.Bots.  
-Copyright © 2020  Aman Agnihotri (amanagnihotri@pm.me)
+Copyright © 2020-2021 Aman Agnihotri (amanagnihotri@pm.me)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published
